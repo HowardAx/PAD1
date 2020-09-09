@@ -1,0 +1,13 @@
+C:\Users\dimad\source\repos\Lab 1 PAD\Publisher\bin\Debug\netcoreapp3.1\Publisher.exe
+C:\Users\dimad\source\repos\Lab 1 PAD\Publisher\obj\Debug\netcoreapp3.1\Publisher.csprojAssemblyReference.cache
+C:\Users\dimad\source\repos\Lab 1 PAD\Publisher\obj\Debug\netcoreapp3.1\Publisher.AssemblyInfoInputs.cache
+C:\Users\dimad\source\repos\Lab 1 PAD\Publisher\obj\Debug\netcoreapp3.1\Publisher.AssemblyInfo.cs
+C:\Users\dimad\source\repos\Lab 1 PAD\Publisher\bin\Debug\netcoreapp3.1\Publisher.deps.json
+C:\Users\dimad\source\repos\Lab 1 PAD\Publisher\bin\Debug\netcoreapp3.1\Publisher.runtimeconfig.json
+C:\Users\dimad\source\repos\Lab 1 PAD\Publisher\bin\Debug\netcoreapp3.1\Publisher.runtimeconfig.dev.json
+C:\Users\dimad\source\repos\Lab 1 PAD\Publisher\bin\Debug\netcoreapp3.1\Publisher.dll
+C:\Users\dimad\source\repos\Lab 1 PAD\Publisher\bin\Debug\netcoreapp3.1\Publisher.pdb
+C:\Users\dimad\source\repos\Lab 1 PAD\Publisher\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\dimad\source\repos\Lab 1 PAD\Publisher\obj\Debug\netcoreapp3.1\Publisher.csproj.CopyComplete
+C:\Users\dimad\source\repos\Lab 1 PAD\Publisher\obj\Debug\netcoreapp3.1\Publisher.dll
+C:\Users\dimad\source\repos\Lab 1 PAD\Publisher\obj\Debug\netcoreapp3.1\Publisher.pdb
