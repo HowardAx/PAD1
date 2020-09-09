@@ -1,0 +1,14 @@
+E:\UTM\Anul IV\PAD\Lab1\PAD1\Subscriber\bin\Debug\netcoreapp3.1\Subscriber.exe
+E:\UTM\Anul IV\PAD\Lab1\PAD1\Subscriber\obj\Debug\netcoreapp3.1\Subscriber.AssemblyInfoInputs.cache
+E:\UTM\Anul IV\PAD\Lab1\PAD1\Subscriber\obj\Debug\netcoreapp3.1\Subscriber.AssemblyInfo.cs
+E:\UTM\Anul IV\PAD\Lab1\PAD1\Subscriber\bin\Debug\netcoreapp3.1\Subscriber.deps.json
+E:\UTM\Anul IV\PAD\Lab1\PAD1\Subscriber\bin\Debug\netcoreapp3.1\Subscriber.runtimeconfig.json
+E:\UTM\Anul IV\PAD\Lab1\PAD1\Subscriber\bin\Debug\netcoreapp3.1\Subscriber.runtimeconfig.dev.json
+E:\UTM\Anul IV\PAD\Lab1\PAD1\Subscriber\bin\Debug\netcoreapp3.1\Subscriber.dll
+E:\UTM\Anul IV\PAD\Lab1\PAD1\Subscriber\bin\Debug\netcoreapp3.1\Subscriber.pdb
+E:\UTM\Anul IV\PAD\Lab1\PAD1\Subscriber\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\UTM\Anul IV\PAD\Lab1\PAD1\Subscriber\obj\Debug\netcoreapp3.1\Subscriber.csproj.CoreCompileInputs.cache
+E:\UTM\Anul IV\PAD\Lab1\PAD1\Subscriber\obj\Debug\netcoreapp3.1\Subscriber.csproj.CopyComplete
+E:\UTM\Anul IV\PAD\Lab1\PAD1\Subscriber\obj\Debug\netcoreapp3.1\Subscriber.dll
+E:\UTM\Anul IV\PAD\Lab1\PAD1\Subscriber\obj\Debug\netcoreapp3.1\Subscriber.pdb
+E:\UTM\Anul IV\PAD\Lab1\PAD1\Subscriber\obj\Debug\netcoreapp3.1\Subscriber.genruntimeconfig.cache

@@ -11,3 +11,17 @@ C:\Users\dimad\source\repos\Lab 1 PAD\Publisher\bin\Debug\netcoreapp3.1\Newtonso
 C:\Users\dimad\source\repos\Lab 1 PAD\Publisher\obj\Debug\netcoreapp3.1\Publisher.csproj.CopyComplete
 C:\Users\dimad\source\repos\Lab 1 PAD\Publisher\obj\Debug\netcoreapp3.1\Publisher.dll
 C:\Users\dimad\source\repos\Lab 1 PAD\Publisher\obj\Debug\netcoreapp3.1\Publisher.pdb
+E:\UTM\Anul IV\PAD\Lab1\PAD1\Publisher\bin\Debug\netcoreapp3.1\Publisher.exe
+E:\UTM\Anul IV\PAD\Lab1\PAD1\Publisher\bin\Debug\netcoreapp3.1\Publisher.deps.json
+E:\UTM\Anul IV\PAD\Lab1\PAD1\Publisher\bin\Debug\netcoreapp3.1\Publisher.runtimeconfig.json
+E:\UTM\Anul IV\PAD\Lab1\PAD1\Publisher\bin\Debug\netcoreapp3.1\Publisher.runtimeconfig.dev.json
+E:\UTM\Anul IV\PAD\Lab1\PAD1\Publisher\bin\Debug\netcoreapp3.1\Publisher.dll
+E:\UTM\Anul IV\PAD\Lab1\PAD1\Publisher\bin\Debug\netcoreapp3.1\Publisher.pdb
+E:\UTM\Anul IV\PAD\Lab1\PAD1\Publisher\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\UTM\Anul IV\PAD\Lab1\PAD1\Publisher\obj\Debug\netcoreapp3.1\Publisher.AssemblyInfoInputs.cache
+E:\UTM\Anul IV\PAD\Lab1\PAD1\Publisher\obj\Debug\netcoreapp3.1\Publisher.AssemblyInfo.cs
+E:\UTM\Anul IV\PAD\Lab1\PAD1\Publisher\obj\Debug\netcoreapp3.1\Publisher.csproj.CoreCompileInputs.cache
+E:\UTM\Anul IV\PAD\Lab1\PAD1\Publisher\obj\Debug\netcoreapp3.1\Publisher.csproj.CopyComplete
+E:\UTM\Anul IV\PAD\Lab1\PAD1\Publisher\obj\Debug\netcoreapp3.1\Publisher.dll
+E:\UTM\Anul IV\PAD\Lab1\PAD1\Publisher\obj\Debug\netcoreapp3.1\Publisher.pdb
+E:\UTM\Anul IV\PAD\Lab1\PAD1\Publisher\obj\Debug\netcoreapp3.1\Publisher.genruntimeconfig.cache

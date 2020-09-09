@@ -22,9 +22,9 @@ namespace Publisher
                 {
                     var phandler = new PHandler();
                     Console.WriteLine("Enter the topic:");
-                    phandler.Topic = Console.ReadLine().ToLower();
+                    phandler.newsCategory = Console.ReadLine().ToLower();
                     Console.WriteLine("Enter the message:");
-                    phandler.Message = Console.ReadLine();
+                    phandler.newsBody = Console.ReadLine();
                     var loadString = JsonConvert.SerializeObject(phandler);
 
                     byte[] data = Encoding.UTF8.GetBytes(loadString);

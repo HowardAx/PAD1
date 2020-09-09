@@ -81,7 +81,9 @@ namespace Broker
                     Console.WriteLine($"{e.Message}");
                     var address = conn.Socket.RemoteEndPoint.ToString();
 
+                    Connections.Remove(address);
                     conn.Socket.Close();
+                    
                 }
                
             }

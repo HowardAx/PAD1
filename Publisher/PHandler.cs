@@ -6,7 +6,7 @@ namespace Publisher
 {
     class PHandler
     {
-        public string Topic { get; set; }
-        public string Message { get; set; }
+        public string newsCategory { get; set; }
+        public string newsBody { get; set; }
     }
 }
