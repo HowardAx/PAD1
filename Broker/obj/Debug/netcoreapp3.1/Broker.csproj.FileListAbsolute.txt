@@ -23,3 +23,5 @@ E:\UTM\Anul IV\PAD\Lab1\PAD1\Broker\obj\Debug\netcoreapp3.1\Broker.genruntimecon
 E:\UTM\Anul IV\PAD\Lab1\PAD1\Broker\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
 E:\UTM\Anul IV\PAD\Lab1\PAD1\Broker\obj\Debug\netcoreapp3.1\Broker.csproj.CoreCompileInputs.cache
 E:\UTM\Anul IV\PAD\Lab1\PAD1\Broker\obj\Debug\netcoreapp3.1\Broker.csproj.CopyComplete
+C:\Users\dimad\source\repos\Lab 1 PAD\Broker\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\dimad\source\repos\Lab 1 PAD\Broker\obj\Debug\netcoreapp3.1\Broker.csproj.CopyComplete

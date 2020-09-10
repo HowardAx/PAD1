@@ -12,3 +12,16 @@ E:\UTM\Anul IV\PAD\Lab1\PAD1\Subscriber\obj\Debug\netcoreapp3.1\Subscriber.cspro
 E:\UTM\Anul IV\PAD\Lab1\PAD1\Subscriber\obj\Debug\netcoreapp3.1\Subscriber.dll
 E:\UTM\Anul IV\PAD\Lab1\PAD1\Subscriber\obj\Debug\netcoreapp3.1\Subscriber.pdb
 E:\UTM\Anul IV\PAD\Lab1\PAD1\Subscriber\obj\Debug\netcoreapp3.1\Subscriber.genruntimeconfig.cache
+C:\Users\dimad\source\repos\Lab 1 PAD\Subscriber\bin\Debug\netcoreapp3.1\Subscriber.exe
+C:\Users\dimad\source\repos\Lab 1 PAD\Subscriber\bin\Debug\netcoreapp3.1\Subscriber.deps.json
+C:\Users\dimad\source\repos\Lab 1 PAD\Subscriber\bin\Debug\netcoreapp3.1\Subscriber.runtimeconfig.json
+C:\Users\dimad\source\repos\Lab 1 PAD\Subscriber\bin\Debug\netcoreapp3.1\Subscriber.runtimeconfig.dev.json
+C:\Users\dimad\source\repos\Lab 1 PAD\Subscriber\bin\Debug\netcoreapp3.1\Subscriber.dll
+C:\Users\dimad\source\repos\Lab 1 PAD\Subscriber\bin\Debug\netcoreapp3.1\Subscriber.pdb
+C:\Users\dimad\source\repos\Lab 1 PAD\Subscriber\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\dimad\source\repos\Lab 1 PAD\Subscriber\obj\Debug\netcoreapp3.1\Subscriber.csprojAssemblyReference.cache
+C:\Users\dimad\source\repos\Lab 1 PAD\Subscriber\obj\Debug\netcoreapp3.1\Subscriber.AssemblyInfoInputs.cache
+C:\Users\dimad\source\repos\Lab 1 PAD\Subscriber\obj\Debug\netcoreapp3.1\Subscriber.AssemblyInfo.cs
+C:\Users\dimad\source\repos\Lab 1 PAD\Subscriber\obj\Debug\netcoreapp3.1\Subscriber.csproj.CopyComplete
+C:\Users\dimad\source\repos\Lab 1 PAD\Subscriber\obj\Debug\netcoreapp3.1\Subscriber.dll
+C:\Users\dimad\source\repos\Lab 1 PAD\Subscriber\obj\Debug\netcoreapp3.1\Subscriber.pdb

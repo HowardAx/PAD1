@@ -13,6 +13,7 @@ namespace Subscriber
             var message = JsonConvert.DeserializeObject<PHandler>(messageString);
 
             Console.WriteLine($"Category: {message.newsCategory}");
+            
             Console.WriteLine($"News body: {message.newsBody}");
         }
     }

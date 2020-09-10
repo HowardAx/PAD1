@@ -10,8 +10,16 @@ namespace Subscriber
 
             string newsCategory;
 
-            Console.Write("Enter news category: ");
+            Console.WriteLine("Choose a news category to subscribe: ");
+            Console.WriteLine("---------------------------------------------");
+            Console.WriteLine("Actual");
+            Console.WriteLine("Sport");
+            Console.WriteLine("Politica");
+            Console.WriteLine("---------------------------------------------");
             newsCategory = Console.ReadLine().ToLower();
+            
+            Console.WriteLine("Successfully subscribed to " + newsCategory + "!");
+            
 
             var subsSocket = new SSocket(newsCategory);
 
