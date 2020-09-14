@@ -12,9 +12,9 @@ namespace Subscriber
 
             Console.WriteLine("Choose a news category to subscribe: ");
             Console.WriteLine("---------------------------------------------");
-            Console.WriteLine("Actual");
+            Console.WriteLine("News");
             Console.WriteLine("Sport");
-            Console.WriteLine("Politica");
+            Console.WriteLine("Tech");
             Console.WriteLine("---------------------------------------------");
             newsCategory = Console.ReadLine().ToLower();
             
