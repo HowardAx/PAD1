@@ -6,6 +6,7 @@ using System.Text;
 using System.ServiceModel;
 using System.Threading.Tasks;
 using System.Xml;
+using System.Threading;
 
 namespace Publisher
 {
@@ -13,7 +14,8 @@ namespace Publisher
     {
         public static string title;
         public static string description;
-        public static string url = "https://rss.publika.md/sport.xml";
+        public static string date;
+        public static string url = "https://www.sciencedaily.com/rss/top.xml";
         static void Main(string[] args)
         {
               
@@ -36,6 +38,7 @@ namespace Publisher
 
                     var newsArr = new List<string>();
 
+
                     // Iterate through the items in the RSS file
                     int count = 0;
                     foreach (XmlNode rssNode in rssNodes)
@@ -46,8 +49,12 @@ namespace Publisher
 
                         rssSubNode = rssNode.SelectSingleNode("description");
                         description = rssSubNode != null ? rssSubNode.InnerText : "";
+                        
+                        rssSubNode = rssNode.SelectSingleNode("pubDate");
+                        date = rssSubNode != null ? rssSubNode.InnerText : "";
 
-                        newsArr.Add( title + description);
+                        newsArr.Add( date +"\n" + title + "\n" + description);
+                        
                       
                         if (count == 3)
                         {
@@ -57,22 +64,27 @@ namespace Publisher
                     }
 
 
-                    var phandler = new PHandler();
-                    Console.WriteLine("Enter the topic:");
-                    phandler.newsCategory = Console.ReadLine().ToLower();
+                  
+                    //Console.WriteLine("Enter the topic:");
+                    //phandler.newsCategory = Console.ReadLine().ToLower();
                     //Console.WriteLine("Enter the message:");
                     foreach(string aux in newsArr)
                     {
-                        phandler.newsBody = aux;
+                        var phandler = new PHandler();
+                        phandler.newsCategory = "sport";
+                        phandler.newsDate = aux.Substring(0, aux.IndexOf("\n"));
+                        phandler.newsBody = aux.Substring(aux.IndexOf("\n")+1);
                         var loadString = JsonConvert.SerializeObject(phandler);
 
                         byte[] data = Encoding.UTF8.GetBytes(loadString);
 
                         publisherSocket.Send(data);
-                    }
+                        Thread.Sleep(1000);
                        
-                    
-                    
+                    }
+
+                    Thread.Sleep(60000);
+
                 }
             }
 

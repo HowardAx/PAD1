@@ -8,5 +8,6 @@ namespace Publisher
     {
         public string newsCategory { get; set; }
         public string newsBody { get; set; }
+        public string newsDate { get; set; }
     }
 }

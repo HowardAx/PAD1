@@ -9,6 +9,7 @@ namespace Subscriber
         public string newsCategory { get; set; }
         public string newsTitle { get; set; }
         public string newsBody { get; set; }
+        public string newsDate { get; set; }
 
     }
 }
