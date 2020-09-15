@@ -27,7 +27,7 @@ namespace Broker
                             byte[] data = Encoding.UTF8.GetBytes(messageString);
 
                             connection.Socket.Send(data);
-                            Thread.Sleep(1000);
+                            Thread.Sleep(500);
                         }
                     }
                 }

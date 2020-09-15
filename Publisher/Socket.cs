@@ -25,7 +25,7 @@ namespace Publisher
         {
             //BeginConnect - varianta asincrona, in background
             socket.BeginConnect(new IPEndPoint(IPAddress.Parse(ip), port), ConnectedCallback, null);
-            Thread.Sleep(2000);
+            Thread.Sleep(500);
         }
 
         public void Send(byte[] data)

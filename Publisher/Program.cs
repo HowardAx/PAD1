@@ -14,7 +14,7 @@ namespace Publisher
     {
         public static string title;
         public static string description;
-        public static string date;
+        public static string date, dateRaw;
         public static int i;
         public static string url0 = "https://www.sciencedaily.com/rss/top.xml";
         public static string url1 = "https://www.sciencedaily.com/rss/science_society/sports.xml";
@@ -58,7 +58,12 @@ namespace Publisher
                             description = rssSubNode != null ? rssSubNode.InnerText : "";
 
                             rssSubNode = rssNode.SelectSingleNode("pubDate");
-                            date = rssSubNode != null ? rssSubNode.InnerText : "";
+                            dateRaw = rssSubNode != null ? rssSubNode.InnerText : "";
+                            if(dateRaw != null)
+                            {
+                                date = dateRaw.Substring(dateRaw.Length - 24, 20);
+                            }
+                            
 
                             newsArr.Add(date + "\n" + title + "\n" + description);
 

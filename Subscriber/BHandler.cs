@@ -13,10 +13,9 @@ namespace Subscriber
             var message = JsonConvert.DeserializeObject<PHandler>(messageString);
             Console.WriteLine("------------------------------------------------------");
             Console.WriteLine($"Date: {message.newsDate}");
+            Console.WriteLine($"Category: {message.newsCategory}\n");
 
-            Console.WriteLine($"Category: {message.newsCategory}\n\n");
-
-            Console.WriteLine($"News body: {message.newsBody}");
+            Console.WriteLine($"{message.newsBody}");
             Console.WriteLine("------------------------------------------------------");
         }
     }

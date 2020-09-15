@@ -25,3 +25,4 @@ C:\Users\dimad\source\repos\Lab 1 PAD\Subscriber\obj\Debug\netcoreapp3.1\Subscri
 C:\Users\dimad\source\repos\Lab 1 PAD\Subscriber\obj\Debug\netcoreapp3.1\Subscriber.csproj.CopyComplete
 C:\Users\dimad\source\repos\Lab 1 PAD\Subscriber\obj\Debug\netcoreapp3.1\Subscriber.dll
 C:\Users\dimad\source\repos\Lab 1 PAD\Subscriber\obj\Debug\netcoreapp3.1\Subscriber.pdb
+E:\UTM\Anul IV\PAD\Lab1\PAD1\Subscriber\obj\Debug\netcoreapp3.1\Subscriber.csprojAssemblyReference.cache
